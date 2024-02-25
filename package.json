@@ -1,6 +1,12 @@
 {
-  "name": "todolist",
-  "version": "0.0.0",
+  "name": "balance-fee",
+  "version": "1.2.2",
+  "author": "druidriga",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/druidriga/balance-fee.git"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -8,7 +14,6 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
-  "private": true,
   "dependencies": {
     "@angular/animations": "^16.1.0",
     "@angular/common": "^16.1.0",
