@@ -1,11 +1,11 @@
 {
   "name": "balance-fee",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "author": "druidriga",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/druidriga/balance-fee.git"
+    "url": "https://github.com/druidriga/balance-fee.git"
   },
   "scripts": {
     "ng": "ng",
